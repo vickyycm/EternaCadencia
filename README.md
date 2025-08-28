@@ -1,4 +1,4 @@
-# 🌐 Eterna Cadencia – Web de Cafetería & Librería  
+# ☕ Eterna Cadencia – Web de Cafetería & Librería  
 
 Este proyecto fue desarrollado durante el **primer cuatrimestre de la facultad** como parte de dos materias:  
 
